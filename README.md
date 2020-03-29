@@ -58,8 +58,11 @@ This repo contains my notes while studing for the [AZ-300](https://www.microsoft
 
 ### Analyze resource utilization and consumption
 1. [Configure diagnostic settings on resources](https://docs.microsoft.com/en-gb/azure/azure-monitor/platform/platform-logs-overview#resource-diagnostic-settings)
+
     -Resource logs: Provide insight into operations that were performed within an Azure resource (the data plane), for example getting a secret from a Key Vault or making a request to a database. The content of resource logs varies by the Azure service and resource type.
+    
     --Logs de recursos: Forneça informações sobre as operações executadas em um recurso do Azure (o plano de dados ), por exemplo, obtendo um segredo de um Key Vault ou fazendo uma solicitação a um banco de dados. O conteúdo dos logs de recursos varia de acordo com o serviço e o tipo de recurso do Azure.
+    
 1. [Create baseline for resources](http://bit.ly/2NtxyUp)
 1. [Create and rest alerts](https://docs.microsoft.com/en-gb/azure/azure-monitor/platform/alerts-metric)
 1. [Analyze alerts across subscription](http://bit.ly/2O04aWG)
