@@ -3,7 +3,9 @@
 ## Topicos para revisar
 
 Azure Active Directory > Identity Governance
+
 Azure Standard SKU Public IP address
+
 Load Balancer
 
 Enterprise State Roaming
@@ -13,14 +15,17 @@ vNet
 NSGs
 
 Key Vault
+
 VM Disk Encryption
 
 CMDLET in PowerShell
+
 Azure CLI
 
 ## Fontes e conclusões
 
 How many network peerings are possible in the Azure Resource Manager portal? 500
+
 R: https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=%2fazure%2fvirtual-network%2ftoc.json#azure-resource-manager-virtual-networking-limits
 
 
