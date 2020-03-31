@@ -2,7 +2,7 @@
 
 This repo contains my notes while studing for the [AZ-300](https://www.microsoft.com/en-us/learning/exam-az-300.aspx) exam.  
 
-## my notes and labs
+## My Notes and Labs (old)
 1. [cloud dev](./cloud-dev/README.md)
 1. [containers](./containers/README.md)
 1. [identity](./identity/README.md)
@@ -11,6 +11,13 @@ This repo contains my notes while studing for the [AZ-300](https://www.microsoft
 1. [storage](./storage/README.md)
 1. [virtual machines](./virtual-machines/README.md)
 1. [virtual networks](./virtual-networks/README.md)
+
+## Simulados e Notas
+1. [Simulados](./simulados/README.md)
+
+## Dicionario de Apoio
+1. [Dicionario](./dicionario/README.md)
+
 
 # Azure Product Documentation
 
@@ -57,6 +64,8 @@ This repo contains my notes while studing for the [AZ-300](https://www.microsoft
 ## Deploy and Configure Infrastructure (40-45%)
 
 ### Analyze resource utilization and consumption
+*Analisar a utilização e consumo de recursos*
+
 1. [Configure diagnostic settings on resources](https://docs.microsoft.com/en-gb/azure/azure-monitor/platform/platform-logs-overview#resource-diagnostic-settings)
 
 
