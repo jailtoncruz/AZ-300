@@ -58,8 +58,24 @@ This repo contains my notes while studing for the [AZ-300](https://www.microsoft
 
 ### Analyze resource utilization and consumption
 1. [Configure diagnostic settings on resources](https://docs.microsoft.com/en-gb/azure/azure-monitor/platform/platform-logs-overview#resource-diagnostic-settings)
+
+
     -Resource logs: Provide insight into operations that were performed within an Azure resource (the data plane), for example getting a secret from a Key Vault or making a request to a database. The content of resource logs varies by the Azure service and resource type.
+
     --Logs de recursos: Forneça informações sobre as operações executadas em um recurso do Azure (o plano de dados ), por exemplo, obtendo um segredo de um Key Vault ou fazendo uma solicitação a um banco de dados. O conteúdo dos logs de recursos varia de acordo com o serviço e o tipo de recurso do Azure.
+
+    -Activity log: Provides insight into the operations on each Azure resource in the subscription from the outside (the management plane) in addition to updates on Service Health events. Use the Activity Log, to determine the what, who, and when for any write operations (PUT, POST, DELETE) taken on the resources in your subscription. You can also understand the status of the operation and other relevant properties. There is a single Activity log for each Azure subscription.
+
+    --Registro de Atividade: Fornece informações sobre as operações em cada recurso do Azure na assinatura de fora ( o plano de gerenciamento ), além de atualizações nos eventos de Integridade do Serviço. Use o Log de atividades para determinar o quê , quem e quando para qualquer operação de gravação (PUT, POST, DELETE) realizada nos recursos da sua assinatura. Você também pode entender o status da operação e outras propriedades relevantes. Há um único log de atividades para cada assinatura do Azure.
+
+    -Azure Active Directory logs: Contains the history of sign-in activity and audit trail of changes made in the Azure Active Directory for a particular tenant.
+
+    --Logs do Azure Active Directory: Contém o histórico de atividades de entrada e trilha de auditoria das alterações feitas no Azure Active Directory para um inquilino específico.
+
+    Resource Logs => Portal Azure and AAD logs : Azure Resources
+    Activity log => Logs or Storage : Azure Subscriptions
+    Azure Active Directory Logs : Azure Tenant 
+
 1. [Create baseline for resources](http://bit.ly/2NtxyUp)
 1. [Create and rest alerts](https://docs.microsoft.com/en-gb/azure/azure-monitor/platform/alerts-metric)
 1. [Analyze alerts across subscription](http://bit.ly/2O04aWG)
