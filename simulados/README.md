@@ -32,7 +32,7 @@ R: https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/azur
 
 # Topicos e Fontes
 
-## Monitoramento
+## Monitoring
 
 https://docs.microsoft.com/en-us/azure/app-service/web-sites-monitor
 
