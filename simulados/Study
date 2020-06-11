@@ -1,0 +1,22 @@
+Study
+Configure network access to the storage account - ok
+Virtual networks - ok
+Create and configurclee storage account - ok
+Generate shared access signature - ok
+implement Azure AD authentication for storage - ok
+Install and use Azure Storage Explorer - ok
+Manage access keys - ok
+Monitor activity log by using Log Analytics - ok
+Implement Azure storage replication - ok
+implement Azure storage account failover - ok
+
+
+Create and configure a Virtual Machine (VM) for Windows and Linux
+Configure high availability legal/sla/virtual-machines/v1_8/) ok
+Configure monitoring - ok
+Configure networking - ok
+Configure storage    - ok 
+Configure virtual machine size
+implement dedicated hosts
+Deploy and configure scale sets
+Automate deployment of Virtual 

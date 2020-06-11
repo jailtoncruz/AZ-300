@@ -10,7 +10,7 @@ Load Balancer
 
 Enterprise State Roaming
 
-vNet
+vNet - ok
 
 NSGs
 
@@ -18,15 +18,17 @@ Key Vault
 
 VM Disk Encryption
 
-CMDLET in PowerShell
+CMDLET in PowerShell- ok
 
 Azure CLI
 
 ## Fontes e conclusões
 
-How many network peerings are possible in the Azure Resource Manager portal? 500
+How many network peerings are possible in the Azure Resource Manager portal?
 
-R: https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=%2fazure%2fvirtual-network%2ftoc.json#azure-resource-manager-virtual-networking-limits
+R: 500 
+
+https://docs.microsoft.com/pt-br/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=%2fazure%2fvirtual-network%2ftoc.json#azure-resource-manager-virtual-networking-limits
 
 
 
